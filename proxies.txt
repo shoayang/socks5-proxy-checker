@@ -1,0 +1,5 @@
+gate.nodemaven.com:1080:wangge420_gmail_com-country-tw-region-taoyuan-isp-chunghwa_telecom-ipv4-true-sid-a141d0c83c954-filter-medium:w5brh9w9pp
+gate.nodemaven.com:1080:wangge420_gmail_com-country-tw-region-taoyuan-isp-chunghwa_telecom-ipv4-true-sid-20cb79a59db54-filter-medium:w5brh9w9pp
+gate.nodemaven.com:1080:wangge420_gmail_com-country-tw-region-taoyuan-isp-chunghwa_telecom-ipv4-true-sid-55564fb3ca434-filter-medium:w5brh9w9pp
+gate.nodemaven.com:1080:wangge420_gmail_com-country-tw-region-taoyuan-isp-chunghwa_telecom-ipv4-true-sid-19698a899daa4-filter-medium:w5brh9w9pp
+gate.nodemaven.com:1080:wangge420_gmail_com-country-tw-region-taoyuan-isp-chunghwa_telecom-ipv4-true-sid-8827dc27f7644-filter-medium:w5brh9w9pp
